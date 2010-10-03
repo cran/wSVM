@@ -1,0 +1,24 @@
+meeT                    Tree-Structured Mixed-Effects Models for
+                        Longitudinal Data
+meeT.control            Control for meeT function
+meeT.default            Tree-Structured Mixed-Effects Models for
+                        Longitudinal Data
+imp.dev                 Calculate within node's -log(Likelihood) using
+                        linear mixed models
+imp.dev.fixed           Calculate within node's - Log(likelihood) using
+                        fixed-effects models
+klipd                   part of Korea Labor Income Panel Data
+klipdA                  Korea Labor Income Panel Data
+klipdT                  Korea Labor Income Panel Data with
+                        time-dependent variables
+LtoS                    Transform dataset format from Long to Wide
+pbkphData               A dataset on the improvement in hearing over
+                        time for children with cochlear implants
+print.gtl               Print an gtl Object
+meeT-package            Tree Structured Mixed-Effects Model for
+                        Longitudinal Data
+var.sel.mean            Variable Selection Algorithm proposed by Eo, Moon and
+                        Cho
+VarInfo                 View Variable Information in a node
+VarInfo2                View Variable Information in a node seconde
+                        type
